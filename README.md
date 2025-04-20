@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
 - Generate **original music** from natural language
 - Customize **duration**, **style**, and **instrumentation**
@@ -14,7 +14,7 @@
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 LMTune/
@@ -25,14 +25,14 @@ LMTune/
 
 ---
 
-## 📦 Installation
+## Installation
 
 To use this project:
 - Follow the instructions in the notebook file.
 
 ---
 
-## 🧠 Model Initialization
+## Model Initialization
 
 Choose the MusicGen model size based on your hardware:
 - `"small"` *(default, fast and efficient)*
@@ -41,7 +41,7 @@ Choose the MusicGen model size based on your hardware:
 
 ---
 
-## 🛠 How to Use
+## How to Use
 
 Set your music prompt and generate the audio:
 
@@ -58,7 +58,7 @@ play_audio("generated_music.wav")
 
 ---
 
-## 🎼 Sample Prompts by Genre
+## Sample Prompts by Genre
 
 Here are some example prompts you can try out with LMTune:
 
@@ -94,7 +94,7 @@ Here are some example prompts you can try out with LMTune:
 
 ---
 
-## 🎧 Output
+## Output
 
 - Default format: `.wav`
 - Sample rate: `32000 Hz` (MusicGen default)
@@ -102,6 +102,6 @@ Here are some example prompts you can try out with LMTune:
 
 ---
 
-## 📬 Feedback
+## Feedback
 
 Feel free to fork, star, or submit issues and pull requests. Happy generating!
