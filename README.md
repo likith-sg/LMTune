@@ -98,7 +98,7 @@ Here are some example prompts you can try out with LMTune:
 
 - Default format: `.wav`
 - Sample rate: `32000 Hz` (MusicGen default)
-- Output is saved locally after generation
+- Output is saved locally after generation / Audio is playable on notebook
 
 ---
 
